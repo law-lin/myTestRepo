@@ -1,1 +1,1 @@
-print("we out here.")
+print("love and peace. cute chakras all day.")
